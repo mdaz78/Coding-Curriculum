@@ -8,7 +8,7 @@
 	- [Core CS](#core_cs)
 	- [Specialization Courses](#specialization_courses)
 - [Books](#books)
-- [Blog Posts](#blog_posts)
+- [Blogs](#blogs)
 
 ## <a id="who_is_this_for"></a>Who is this for?
 Are you a self taught developer, who can get the application to work, but gets scared of the _Big O_ notations. A programmer who wants to develop his over all coding skills and grow as a programmer. Than this Curriculum is for you.
@@ -51,3 +51,11 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 1. [CS50's Web Programming With Python and JavaScript](https://www.youtube.com/watch?v=EOZDjqwvVG8&index=1&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 2. [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
+## <a id="books"></a>Books
+
+1. Elixir In Action by Sasa Juric
+2. Programming Elixir by Dave Thomas
+
+## <a id="blogs"></a>Blogs
+
+1. [High Scalability](http://highscalability.com/)
