@@ -1,8 +1,8 @@
 ### A curriculum to help you improve your over all programming skills.
 
 ## Contents
-- [Who is this for?] (#who_is_this_for)
-- [Why am I using it?] (#why_am_i_using_it)
+- [Who is this for?] (who_is_this_for)
+- [Why am I using it?] (why_am_i_using_it)
 - [Curriculum] (#curriculum)
 	- [Mathematics] (#mathematics)
 	- [Core CS] (#core_cs)
