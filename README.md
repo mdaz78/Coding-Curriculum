@@ -10,21 +10,21 @@
 - [Books](#books)
 - [Blog Posts](#blog_posts)
 
-## Who is this for?<a id="who_is_this_for"></a>
+## <a id="who_is_this_for"></a>Who is this for?
 Are you a self taught developer, who can get the application to work, but gets scared of the _Big O_ notations. A programmer who wants to develop his over all coding skills and grow as a programmer. Than this Curriculum is for you.
 
 
-## Why am I using it?<a id="why_am_i_using_it"></a>
+## <a id="why_am_i_using_it"></a>Why am I using it?
 I am using this curriculum to turn me into a better programmer than I am today, and help me grow my skills.
 
 
-## Curriculum<a id="curriculum"></a>
+## <a id="curriculum"></a>Curriculum
 - [Mathematics](#mathematics)
 - [Core CS](#core_cs)
 - [Specialization Courses](#specialization_courses)
 
 
-## Mathematics
+## <a id="mathematics"></a>Mathematics
 
 1. [Pre Algebra](https://www.khanacademy.org/math/pre-algebra)
 2. [Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
@@ -38,3 +38,10 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 10. [Differential Equations](https://www.khanacademy.org/math/differential-equations)
 11. [18.01SC MIT Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 12. [18.062J Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+
+## <a id="core_cs"></a>Core CS
+
+1. [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+3. [Introduction to Computer Science CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x#!)
+4. [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
