@@ -45,3 +45,9 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 3. [Introduction to Computer Science CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x#!)
 4. [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+
+## <a id="core_cs"></a>Specialization Courses
+
+1. [CS50's Web Programming With Python and JavaScript](https://www.youtube.com/watch?v=EOZDjqwvVG8&index=1&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+2. [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
+
