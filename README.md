@@ -1,4 +1,4 @@
-### A curriculum to help you improve your over all programming skills.
+### A Curriculum to help you improve your over all programming skills.
 
 ## Contents
 - [Who is this for?](#who_is_this_for)
