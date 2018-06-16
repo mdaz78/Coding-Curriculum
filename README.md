@@ -50,6 +50,9 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 
 1. [CS50's Web Programming With Python and JavaScript](https://www.youtube.com/watch?v=EOZDjqwvVG8&index=1&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 2. [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
+3. [The Complete SASS and SCSS course from beginners to Advanced](https://www.udemy.com/sasscourse/)
+4. [Complete Introduction to React, v3 (feat. Redux, Router and Flow)](https://frontendmasters.com/courses/react/)
+5. [JS30 Videos by Wes Bos](https://javascript30.com/)
 
 ## <a id="books"></a>Books
 
