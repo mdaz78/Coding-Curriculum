@@ -55,6 +55,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 12. [CS224 Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 13. [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 14. [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+15. [How to win coding competitions: Secret of Champions](https://www.edx.org/course/how-to-win-coding-competitions-secrets-of-champions)
 
 ## <a id="specialization_courses"></a>Specialization Courses
 
