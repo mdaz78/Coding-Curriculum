@@ -8,7 +8,7 @@
 	- [Core CS](#core_cs)
 	- [Specialization Courses](#specialization_courses)
 - [Books](#books)
-- [Blogs](#blogs)
+- [Blogs and Other Resources](#blogs)
 
 ## <a id="who_is_this_for"></a>Who is this for?
 Are you a self taught developer, who can get the application to work, but gets scared of the _Big O_ notations. A programmer who wants to develop his over all coding skills and grow as a programmer. Than this Curriculum is for you.
@@ -63,6 +63,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 3. [The Complete SASS and SCSS course from beginners to Advanced](https://www.udemy.com/sasscourse/)
 4. [Complete Introduction to React, v3 (feat. Redux, Router and Flow)](https://frontendmasters.com/courses/react/)
 5. [JS30 Videos by Wes Bos](https://javascript30.com/)
+6. 
 
 ## <a id="books"></a>Books
 
