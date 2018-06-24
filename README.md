@@ -63,13 +63,20 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 3. [The Complete SASS and SCSS course from beginners to Advanced](https://www.udemy.com/sasscourse/)
 4. [Complete Introduction to React, v3 (feat. Redux, Router and Flow)](https://frontendmasters.com/courses/react/)
 5. [JS30 Videos by Wes Bos](https://javascript30.com/)
-6. 
+6. [ES6 For Everyone by WesBos](https://es6.io/)
+7. [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/)
+8. [Data Structures and Algorithms in Javascript](https://frontendmasters.com/courses/data-structures-algorithms/)
+9. [Functional Light JavaScript](https://frontendmasters.com/courses/functional-javascript-v2/)
+10. [Introduction to MongoDB using the MEAN stack](https://courses.edx.org/courses/course-v1:MongoDBx+M101x+2T2016/course/)
+11. [The Complete Python 3 course Beginner to Advanced](https://www.udemy.com/python-complete/)
+
 
 ## <a id="books"></a>Books
 
 1. Elixir In Action by Sasa Juric
 2. Programming Elixir by Dave Thomas
 3. [Learn You a Haskell for a great Good](http://learnyouahaskell.com/)
+4. Cracking the Coding Interview
 
 ## <a id="blogs"></a>Blogs and Other Resources
 
