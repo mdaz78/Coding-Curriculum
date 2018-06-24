@@ -56,7 +56,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 13. [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 14. [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 
-## <a id="core_cs"></a>Specialization Courses
+## <a id="specialization_courses"></a>Specialization Courses
 
 1. [CS50's Web Programming With Python and JavaScript](https://www.youtube.com/watch?v=EOZDjqwvVG8&index=1&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 2. [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
