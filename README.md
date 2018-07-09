@@ -26,7 +26,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 
 ## <a id="mathematics"></a>Mathematics
 
-1. [Pre Algebra](https://www.khanacademy.org/math/pre-algebra)
+1. [Pre Algebra (Currently Doing)](https://www.khanacademy.org/math/pre-algebra)
 2. [Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
 3. [Pre Calculus](https://www.khanacademy.org/math/precalculus)
 4. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -60,7 +60,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 ## <a id="specialization_courses"></a>Specialization Courses
 
 1. [CS50's Web Programming With Python and JavaScript](https://www.youtube.com/watch?v=EOZDjqwvVG8&index=1&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
-2. [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
+2. [~~The Complete Elixir and Phoenix Bootcamp~~](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 3. [The Complete SASS and SCSS course from beginners to Advanced](https://www.udemy.com/sasscourse/)
 4. [Complete Introduction to React, v3 (feat. Redux, Router and Flow)](https://frontendmasters.com/courses/react/)
 5. [JS30 Videos by Wes Bos](https://javascript30.com/)
