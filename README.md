@@ -26,7 +26,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 
 ## <a id="mathematics"></a>Mathematics
 
-1. [Pre Algebra (Currently Doing)](https://www.khanacademy.org/math/pre-algebra)
+1. [Pre Algebra](https://www.khanacademy.org/math/pre-algebra)
 2. [Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
 3. [Pre Calculus](https://www.khanacademy.org/math/precalculus)
 4. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
@@ -43,7 +43,7 @@ I am using this curriculum to turn me into a better programmer than I am today, 
 
 1. [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 2. [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-3. [Introduction to Computer Science CS50 (Currently Doing)](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x#!)
+3. [Introduction to Computer Science CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x#!)
 4. [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 5. [6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 6. [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
