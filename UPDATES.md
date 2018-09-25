@@ -7,7 +7,7 @@
 - Completed the lectures of first two weeks from [Full Stack Rails](https://www.coursera.org/learn/ruby-on-rails-intro/supplement/hr4Vm/important-update).
 
 
-#### _Day - 1 (25 September 2018)_
+#### _Day - 2 (25 September 2018)_
 
 - Studied Power sets and Subsets and Universal Sets, will start doing Exercise 1.3 tomorrow.
 - Watched CS50 week2 till Finding50.
