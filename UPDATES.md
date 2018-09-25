@@ -12,3 +12,4 @@
 - Studied Power sets and Subsets and Universal Sets, will start doing Exercise 1.3 tomorrow.
 - Watched CS50 week2 till Finding50.
 - Completed the John Hopkins course today.
+- Started Reading [How to make a rails app](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f) will most probably complete it by tomorrow EOD.
