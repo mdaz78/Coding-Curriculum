@@ -13,3 +13,9 @@
 - Watched CS50 week2 till Finding50.
 - Completed the John Hopkins course today.
 - Started Reading [How to make a rails app](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f) will most probably complete it by tomorrow EOD.
+
+#### _Day - 3 (26 September 2018)_
+
+Underestimated the [How to make a rails app](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f) blog post, will do it after doing some other tutorial or course on ruby on rails. 
+
+ #### _Day - 4 (27 September 2018)_
